@@ -1,0 +1,28 @@
+.page-header{
+    color:#245269;
+}
+
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+    width: 97.5%;
+    height: 300px
+}
+.basic-unit{
+    border-width: 1px;
+    border-color: #ddd;
+    border-radius: 4px 4px 0 0;
+}
+.ngHeaderText {
+    padding: 5px;
+}
+.loadingDiv{
+    position: absolute;
+    opacity: 0.5;
+    background-color: #28a4c9;
+    height: 100%;
+    width: 97.5%;
+}
+.loadingBar{
+
+
+}
